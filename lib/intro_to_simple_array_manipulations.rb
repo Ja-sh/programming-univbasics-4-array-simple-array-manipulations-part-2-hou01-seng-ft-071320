@@ -13,3 +13,6 @@ end
 def using_flatten(array)
   array.flatten
 end
+#using flatten & compact will increase the ammount of memmory (more memmory = longer exec time)
+def using_delete(array , string)
+  array.delete()
