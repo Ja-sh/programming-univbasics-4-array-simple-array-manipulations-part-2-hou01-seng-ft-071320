@@ -1,2 +1,2 @@
-def using_concat(array , array)
+def using_concat(array , element)
 end
