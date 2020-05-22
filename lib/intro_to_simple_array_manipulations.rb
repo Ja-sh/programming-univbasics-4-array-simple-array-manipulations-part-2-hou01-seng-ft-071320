@@ -22,4 +22,4 @@ def using_delete_at (array , integer)
   array.delete_at (2)
 end
 
-#using flatten & compact will increase the ammount of memory (more memory = longer exec time)
+#using flatten & compact will increase exec time
